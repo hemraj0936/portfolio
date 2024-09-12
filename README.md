@@ -1,41 +1,50 @@
-# Data Scientist | Data Analyst | Business Analyst
+# Data Analyst | Business Analyst | Product Analyst
 
 #### Technical Skills: Python(Pandas, NumPy, Matplotlib, SciKit Learn, Seaborn) , SQL, BigQuery,R(ggplot2), Excel, Tableau
 
 ## Education								       		
-- Masters in Business Analytics	| Northeastern University (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Masters in Business Analytics	| Northeastern University (_December 2024_)	 			        		
+- Bachelors in Computer Science and Engineering| VIT University (_JULY 2020_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Senior Analyst @ InfoEdge (_Feb 2022 - July 2023_)**
+- Leveraged Google Cloud Platform (GCP) to extract, transform, and analyze 1+ TB of data monthly, driving actionable insights for business partners and increasing operational efficiency by 25%.
+- Reduced data errors by 30% and improved reporting accuracy by performing comprehensive data wrangling (cleaning, structuring, validating) using Python and SQL.
+- Developed interactive dashboards in Tableau and Power BI, cutting report generation time by 40% while streamlining data communication for stakeholders.
+- Collaborated with cross-functional teams to gather requirements and design modular dashboards, leading to a 20% improvement in decision-making efficiency across departments.
+- Led user acceptance testing (UAT) and post-production testing to ensure successful launches, reducing customer service response times by 25%.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Programmer Analyst @ Cognizant (_July 2020 - Feb 2022_)**
+- Analyzed sales data using Salesforce and SQL to uncover trends and opportunities, driving a 10% increase in upsell revenue for key clients.
+- Enhanced data accuracy by 30% and operational efficiency by 25% by conducting data assessments and statistical analyses on 500+ datasets, providing actionable insights for business teams.
+- Led proof of concepts for emerging data analytics technologies, cutting analysis time by 25% through the evaluation and adoption of new solutions.
+- Streamlined data accessibility by implementing ETL processes with SQL and Python, building a centralized data warehouse for enhanced analytics and reporting across teams.
+- Spearheaded agile project management, reducing delivery timelines by 30% and improving data accuracy by 25%.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Predictive Analysis of Heart Disease Indicators
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Analyzed 50,000+ rows of heart disease data using **SAS Miner** and **Advanced Excel** to identify key predictors of heart attacks. Improved prediction accuracy by 20%, supporting medical research and preventive healthcare strategies.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Predictive Analysis of Heart Disease Indicators]
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Ecommerce Data Analysis and Optimization Using Google BigQuery
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Analyzed an eCommerce dataset using SQL in **Google BigQuery**, transforming and cleaning data, ingesting new datasets, and generating visual reports in **Looker Studio**. Developed a scalable SQL workflow in Dataform and utilized Duet AI for advanced insights, resulting in a 15% increase in sales conversions and improved inventory management.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Ecommerce Data Analysis and Optimization Using Google BigQuery]
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Credit Card Fraud Detection
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Built a **Random Forest Classifier** to detect fraudulent credit card transactions, addressing data imbalance and privacy concerns through dimensionality reduction and model evaluation. Achieved a high recall rate, improving real-time fraud prevention and enhancing the overall system's reliability.
+
+![Credit Card Fraud Detection]
+
+### Pet Health Analysis Using Tableau
+
+Analyzed 5,000+ dog health records and food ingredients, identifying a 15% increase in digestive issues related to high-grain dog food. Created a **Tableau** dashboard to present findings and proposed dietary changes, expecting a significant reduction in health problems by incorporating more balanced ingredients.
+
+![Pet Health Analysis Using Tableau]
+
+## Independent Youtube Channel
+- [Travelling and Informational Videos YouTube Channel](https://youtube.com/@hamrazzvlogs?si=PwjD1aRwsH3KiwfQ)
