@@ -19,7 +19,7 @@
 - Evaluated key financial metrics such as revenue and profit margins to enhance data accuracy and streamline reporting, achieving a 30% improvement in efficiency.
 - Designed and managed interactive dashboards for monitoring inventory, pricing strategies, and sales performance, leading to a 25% increase in data-driven decision-making and operational efficiency.
 - Implemented ETL processes with Informatica to create a centralized data warehouse, enhancing data integration and access, and achieving a 20% improvement in reporting speed.
-- Conducted extensive data analysis to support e-commerce pricing, inventory management, and financial tracking, resulting in a 25% improvement in data integrity and a 15% increase in client business growth..
+- Conducted extensive data analysis to support e-commerce pricing, inventory management, and financial tracking, resulting in a 25% improvement in data integrity and a 15% increase in client business growth.
 
 ## Projects
 ### Predictive Analysis of Heart Disease Indicators
