@@ -26,25 +26,22 @@
 
 Analyzed 50,000+ rows of heart disease data using **SAS Miner** and **Advanced Excel** to identify key predictors of heart attacks. Improved prediction accuracy by 20%, supporting medical research and preventive healthcare strategies.
 
-![Predictive Analysis of Heart Disease Indicators]
-
 ### Ecommerce Data Analysis and Optimization Using Google BigQuery
 
 Analyzed an eCommerce dataset using SQL in **Google BigQuery**, transforming and cleaning data, ingesting new datasets, and generating visual reports in **Looker Studio**. Developed a scalable SQL workflow in Dataform and utilized Duet AI for advanced insights, resulting in a 15% increase in sales conversions and improved inventory management.
-
-![Ecommerce Data Analysis and Optimization Using Google BigQuery]
 
 ### Credit Card Fraud Detection
 
 Built a **Random Forest Classifier** to detect fraudulent credit card transactions, addressing data imbalance and privacy concerns through dimensionality reduction and model evaluation. Achieved a high recall rate, improving real-time fraud prevention and enhancing the overall system's reliability.
 
-![Credit Card Fraud Detection]
-
 ### Pet Health Analysis Using Tableau
 
 Analyzed 5,000+ dog health records and food ingredients, identifying a 15% increase in digestive issues related to high-grain dog food. Created a **Tableau** dashboard to present findings and proposed dietary changes, expecting a significant reduction in health problems by incorporating more balanced ingredients.
 
-![Pet Health Analysis Using Tableau]
+## Online Courses and Certifications
+- **AWS Certification:** Generative AI with Large Language Models, Aug'24
+- **Google Cloud Certification:** Exploring and Preparing your Data with BigQuery, July'24
+- **Google Certification:** BigQuery for Data Analysts, July'24
 
 ## Independent Youtube Channel
 - [Travelling and Informational Videos YouTube Channel](https://youtube.com/@hamrazzvlogs?si=PwjD1aRwsH3KiwfQ)
