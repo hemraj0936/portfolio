@@ -3,8 +3,8 @@
 #### Technical Skills: Python(Pandas, NumPy, Matplotlib, SciKit Learn, Seaborn) , SQL, BigQuery,R(ggplot2), Excel, Tableau
 
 ## Education								       		
-- Masters in Business Analytics	| Northeastern University (_December 2024_)	 			        		
-- Bachelors in Computer Science and Engineering| VIT University (_JULY 2020_)
+- Masters in Business Analytics, Northeastern University (_December 2024_)	 			        		
+- Bachelors in Computer Science and Engineering, VIT University (_JULY 2020_)
 
 ## Work Experience
 **Senior Analyst @ InfoEdge (_Feb 2022 - July 2023_)**
