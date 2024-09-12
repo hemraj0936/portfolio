@@ -15,11 +15,11 @@
 - Led user acceptance testing (UAT) and post-production testing to ensure successful launches, reducing customer service response times by 25%.
 
 **Programmer Analyst @ Cognizant (_July 2020 - Feb 2022_)**
-- Analyzed sales data using Salesforce and SQL to uncover trends and opportunities, driving a 10% increase in upsell revenue for key clients.
-- Enhanced data accuracy by 30% and operational efficiency by 25% by conducting data assessments and statistical analyses on 500+ datasets, providing actionable insights for business teams.
-- Led proof of concepts for emerging data analytics technologies, cutting analysis time by 25% through the evaluation and adoption of new solutions.
-- Streamlined data accessibility by implementing ETL processes with SQL and Python, building a centralized data warehouse for enhanced analytics and reporting across teams.
-- Spearheaded agile project management, reducing delivery timelines by 30% and improving data accuracy by 25%.
+- Analyzed sales data with Python and SQL to identify trends and enhance product assortment and promotions, resulting in a 10% increase in upsell revenue and a 15% boost in client business growth.
+- Evaluated key financial metrics such as revenue and profit margins to enhance data accuracy and streamline reporting, achieving a 30% improvement in efficiency.
+- Designed and managed interactive dashboards for monitoring inventory, pricing strategies, and sales performance, leading to a 25% increase in data-driven decision-making and operational efficiency.
+- Implemented ETL processes with Informatica to create a centralized data warehouse, enhancing data integration and access, and achieving a 20% improvement in reporting speed.
+- Conducted extensive data analysis to support e-commerce pricing, inventory management, and financial tracking, resulting in a 25% improvement in data integrity and a 15% increase in client business growth..
 
 ## Projects
 ### Predictive Analysis of Heart Disease Indicators
